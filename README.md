@@ -1,2 +1,2 @@
 # PineVale-Website
-HTML-CSS website
+HTML-CSS website created using only Grid property of CSS
